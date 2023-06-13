@@ -1,2 +1,2 @@
 
-console.log('This is the app');
+console.log('This is the freakin app');
